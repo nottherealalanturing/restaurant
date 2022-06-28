@@ -1,3 +1,3 @@
 ### RESTAURANT
 
-An Odin Project project.
+An Odin Project.
